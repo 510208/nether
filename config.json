@@ -1,36 +1,37 @@
 {
-    "discord-token": "ENTER-YOUR-TOKEN-IN-THERE",
+    "discord-token": "ENTER-YOUR-TOKEN-IN-THERE(Required)",
     "java-server": {
         "opened": true,
-        "mc-server-name": "凌晨伺服器",
-        "mc-server-ip": "ems.mcs.tw",
+        "mc-server-name": "(Required)",
+        "mc-server-ip": "(Required)",
         "mc-server-port": 25565,
-        "mc-server-version": "1.20.2",
-        "mc-server-motd": "凌晨伺服器"
+        "mc-server-version": "(Required)",
+        "mc-server-motd": "(Required)"
     },
     "bedrock-server": {
         "opened": true,
-        "mc-server-name": "凌晨伺服器",
-        "mc-server-ip": "payload.ingress.hnhost.net",
+        "mc-server-name": "(Required)",
+        "mc-server-ip": "(Required)",
         "mc-server-port": 57034,
         "mc-server-is-realm": false,
-        "mc-server-realm-uri": "N/A",
+        "mc-server-realm-uri": "(If switched mc-server-is-realm to true, This is Required)",
         "mc-server-latested": true,
-        "mc-server-version": "1.20.2",
-        "mc-server-motd": "凌晨伺服器"
+        "mc-server-version": "(If switched mc-server-is-realm to false,This is Required)",
+        "mc-server-motd": "(Required)"
     },
     "about": {
-        "description": "凌晨伺服器的自由與開放讓你難以想像",
+        "description": "(Required)",
         "server-master": {
-            "server-master-name": "!夜間部",
-            "server-master-discord-id": "woodypegasus_tw"
+            "server-master-name": "(Required)",
+            "server-master-discord-id": "(Required)"
         },
         "server-deputy-master": {
-            "server-admin-name": "凌晨副服主",
-            "server-admin-discord-id": "kuhe_"
+            "server-admin-name": "(Required)",
+            "server-admin-discord-id": "(Required)"
         }
     },
     "setting": {
-        "answer-for-just-sender": false
+        "answer-for-just-sender": false,
+        "Description-for-top-selector": "answer-for-just-sender is a beta selector,recommed switch it to false,else it will error!"
     }
 }
