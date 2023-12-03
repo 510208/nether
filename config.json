@@ -15,7 +15,7 @@
         "mc-server-port": 57034,
         "mc-server-is-realm": false,
         "mc-server-realm-uri": "N/A",
-        "mc-server-latested": false,
+        "mc-server-latested": true,
         "mc-server-version": "1.20.2",
         "mc-server-motd": "凌晨伺服器"
     },
@@ -30,7 +30,7 @@
             "server-admin-discord-id": "kuhe_"
         }
     },
-    "fancy": {
-        "answer-hashtag": false
+    "setting": {
+        "answer-for-just-sender": false
     }
 }
