@@ -1,4 +1,5 @@
-# ObsidianCraftCoreBot
+# Nether Bot
+> 原名ObsidianCraftCoreBot
 An open-source Discord bot for seamless integration with Minecraft servers.
 
 ## 感謝
