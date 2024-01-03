@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknether=self.webpackChunknether||[]).push([[74],{7815:e=>{e.exports=JSON.parse('{"allTagsPath":"/nether/blog/tags","slug":"/nether/blog/tags/hello","name":"hello","count":2,"permalink":"/nether/blog/tags/hello"}')}}]);
