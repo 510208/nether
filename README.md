@@ -1,4 +1,8 @@
 # Nether Bot
+
+> [!WARNING]
+> 本機器人目前已停止開發，請轉移至 [Yunyu Discord Bot](https://510208.github.io/yunyu-site/) 做使用
+
 > 原名ObsidianCraftCoreBot
 An open-source Discord bot for seamless integration with Minecraft servers.
 
